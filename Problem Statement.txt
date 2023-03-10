@@ -1,0 +1,13 @@
+Vrinda STores wants to creates a annual sales report of 2022. So that they can understand their customer 
+and grow sales for year 2023.
+
+
+Sample Questions:
+1)Compare the sales and orders using single chart?
+2)Which month got the highest sales and orders?
+3)Who purchased more-men or women in 2022?
+4)What are the different order status in 2022?
+5)List the top 10 contributing to sales?
+6)Relation between age and gender based on numbers of orders?
+7)Which channel is contributing to maximum sales?
+8)Highest selling category?
